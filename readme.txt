@@ -77,9 +77,7 @@ If no order is entered the category is not displayed even if the checkbox is che
 
 == Screenshots ==
 
-1. The Widget Admin
-
-<img src="/tags/1.0/litoc_screenshot-1.jpg" />
+1. Widget Admin
 
 == Changelog ==
 
